@@ -1,0 +1,4 @@
+[build]
+command ="nmp run build"
+functions ="functions"
+"publish" ="build"
